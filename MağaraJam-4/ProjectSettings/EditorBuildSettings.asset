@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: "Assets/Scenes/AnaMen\xFC.unity"
+    guid: 6773f9286a286454ba80f4d46734c2e4
+  - enabled: 1
+    path: "Assets/Scenes/Nas\u0131lOynan\u0131r.unity"
+    guid: 61c2f7b892fec314cba0de59ef10388e
+  - enabled: 1
+    path: Assets/Scenes/oyunsahnesi.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/oyunsonusahnesi.unity
+    guid: 2229130194d1e0447a01813598715c3d
+  m_configObjects: {}
